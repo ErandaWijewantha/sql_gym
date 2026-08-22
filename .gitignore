@@ -1,0 +1,6 @@
+.env
+data_generation/output/
+data_generation/__pycache__/
+data_generation/.venv/
+*.pyc
+.DS_Store
